@@ -10,3 +10,4 @@ vibe    ::  automation > repetition, always
 titanitus@dev:~$ echo $LOCATION
 Germany 🇩🇪 · UTC+2
 ```
+titanitus.de
